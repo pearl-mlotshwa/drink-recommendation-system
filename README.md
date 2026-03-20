@@ -42,6 +42,5 @@ drinks higher in its default ranking will tend to surface more popular
 options, improving the user experience even before personalisation kicks in.
 
 ---
-Built by Phumelele Pearl Mlotshwa
-github.com/pearl-mlotshwa
-pearlmlotshwa140@gmail.com
+Built by Pearl Mlotshwa
+github.com/pearl-mlotshwa 
